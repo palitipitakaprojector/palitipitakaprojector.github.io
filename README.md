@@ -6,6 +6,8 @@
 
 # Some links
 
++ Online [tipitakapali.org](tipitakapali.org) - [Tipitaka Pali for pc](https://github.com/tipitakapali/tipitakapali.org/releases)
+
 + Tipitaka app: [https://tipitaka.app](https://tipitaka.app) (computer, Android)
 
 + For iOS tipitaka app: [https://dhammapedia.com/ios/allapps.html](https://dhammapedia.com/ios/allapps.html)
