@@ -6,7 +6,7 @@
 
 # Some links
 
-+ Online [tipitakapali.org](tipitakapali.org) - [Tipitaka Pali for pc](https://github.com/tipitakapali/tipitakapali.org/releases)
++ Online [tipitakapali.org](https://tipitakapali.org) - Download [Tipitaka Pali for pc](https://github.com/tipitakapali/tipitakapali.org/releases)
 
 + Tipitaka app: [https://tipitaka.app](https://tipitaka.app) (computer, Android)
 
